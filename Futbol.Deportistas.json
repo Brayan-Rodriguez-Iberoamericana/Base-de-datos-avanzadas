@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "6739167ca3c9ac4b5cd6cb59"
+  },
+  "nombre": "Juan Pérez",
+  "edad": 25,
+  "sexo": "M",
+  "deporte": "Fútbol",
+  "equipo": "Futbol Club",
+  "nacionalidad": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "67391760a3c9ac4b5cd6cb5b"
+  },
+  "nombre": "Andres Suarez",
+  "edad": 22,
+  "sexo": "M",
+  "deporte": "Fútbol",
+  "equipo": "FC Sociedad",
+  "nacionalidad": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "673917f8a3c9ac4b5cd6cb5f"
+  },
+  "nombre": "Leo Rodriguez",
+  "edad": 20,
+  "sexo": "M",
+  "deporte": "Fútbol",
+  "equipo": "Real Bogota",
+  "nacionalidad": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "6739182ca3c9ac4b5cd6cb61"
+  },
+  "nombre": "Luis Lopez",
+  "edad": 24,
+  "sexo": "M",
+  "deporte": "Fútbol",
+  "equipo": "Los Leones FC",
+  "nacionalidad": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "67391892a3c9ac4b5cd6cb63"
+  },
+  "nombre": "Carlos Muñoz",
+  "edad": 25,
+  "sexo": "M",
+  "deporte": "Fútbol",
+  "equipo": "Bogota FC",
+  "nacionalidad": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "67393018a3c9ac4b5cd6cc0a"
+  },
+  "nombre": "Brayan Rodriguez",
+  "edad": 22,
+  "sexo": "M",
+  "deporte": "Fútbol",
+  "equipo": "FC Barcelona",
+  "nacionalidad": "Colombia"
+}]

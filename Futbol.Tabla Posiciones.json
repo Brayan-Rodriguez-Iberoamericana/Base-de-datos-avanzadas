@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "67393296a3c9ac4b5cd6cc24"
+  },
+  "deporte": "Fútbol",
+  "equipo_id": "Futbol Club",
+  "puntos_totales": 6,
+  "encuentros_jugados": 1,
+  "encuentros_ganados": 1,
+  "encuentros_perdidos": 0,
+  "encuentros_empatados": 0
+},
+{
+  "_id": {
+    "$oid": "673932cda3c9ac4b5cd6cc27"
+  },
+  "deporte": "Fútbol",
+  "equipo_id": "FC Sociedad",
+  "puntos_totales": 1,
+  "encuentros_jugados": 1,
+  "encuentros_ganados": 0,
+  "encuentros_perdidos": 1,
+  "encuentros_empatados": 0
+},
+{
+  "_id": {
+    "$oid": "6739330ba3c9ac4b5cd6cc30"
+  },
+  "deporte": "Fútbol",
+  "equipo_id": "Real Bogota",
+  "puntos_totales": 1,
+  "encuentros_jugados": 1,
+  "encuentros_ganados": 0,
+  "encuentros_perdidos": 1,
+  "encuentros_empatados": 0
+},
+{
+  "_id": {
+    "$oid": "67393346a3c9ac4b5cd6cc33"
+  },
+  "deporte": "Fútbol",
+  "equipo_id": "Los Leones FC",
+  "puntos_totales": 9,
+  "encuentros_jugados": 1,
+  "encuentros_ganados": 1,
+  "encuentros_perdidos": 0,
+  "encuentros_empatados": 0
+},
+{
+  "_id": {
+    "$oid": "67393396a3c9ac4b5cd6cc34"
+  },
+  "deporte": "Fútbol",
+  "equipo_id": "Bogota FC",
+  "puntos_totales": 2,
+  "encuentros_jugados": 1,
+  "encuentros_ganados": 0,
+  "encuentros_perdidos": 1,
+  "encuentros_empatados": 0
+},
+{
+  "_id": {
+    "$oid": "673933b7a3c9ac4b5cd6cc35"
+  },
+  "deporte": "Fútbol",
+  "equipo_id": "FC Barcelona",
+  "puntos_totales": 9,
+  "encuentros_jugados": 1,
+  "encuentros_ganados": 1,
+  "encuentros_perdidos": 0,
+  "encuentros_empatados": 0
+}]

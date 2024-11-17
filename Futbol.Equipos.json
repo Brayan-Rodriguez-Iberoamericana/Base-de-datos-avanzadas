@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "67391deba3c9ac4b5cd6cb8f"
+  },
+  "nombre": "Futbol Club",
+  "deporte": "Fútbol",
+  "entrenador_id": "Rodolfo Sanchez",
+  "jugadores": "Juan Pérez"
+},
+{
+  "_id": {
+    "$oid": "6739216da3c9ac4b5cd6cbbb"
+  },
+  "nombre": "FC Sociedad",
+  "deporte": "Fútbol",
+  "entrenador_id": "James Rodriguez",
+  "jugadores": "Andres Suarez"
+},
+{
+  "_id": {
+    "$oid": "67392812a3c9ac4b5cd6cbce"
+  },
+  "nombre": "Real Bogota",
+  "deporte": "Fútbol",
+  "entrenador_id": "Jhon Gomez",
+  "jugadores": "Leo Rodriguez"
+},
+{
+  "_id": {
+    "$oid": "67392b02a3c9ac4b5cd6cbd5"
+  },
+  "nombre": "Los leones FC",
+  "deporte": "Fútbol",
+  "entrenador_id": "Luis Hernandez",
+  "jugadores": "Luis Lopez"
+},
+{
+  "_id": {
+    "$oid": "67392b82a3c9ac4b5cd6cbdc"
+  },
+  "nombre": "Bogota FC",
+  "deporte": "Fútbol",
+  "entrenador_id": "Maria Rodriguez",
+  "jugadores": "Carlos Muñoz"
+},
+{
+  "_id": {
+    "$oid": "6739307ea3c9ac4b5cd6cc0e"
+  },
+  "nombre": "FC Barcelona",
+  "deporte": "Fútbol",
+  "entrenador_id": "Andrea Cardenas",
+  "jugadores": "Brayan Rodriguez"
+}]

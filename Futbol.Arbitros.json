@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "67391acaa3c9ac4b5cd6cb83"
+  },
+  "nombre": "Natalia Rodriguez",
+  "edad": 25,
+  "sexo": "F",
+  "especialidad": "Fútbol y Microfutbol",
+  "nacionalidad": "Argentina",
+  "experiencia": "10 años"
+},
+{
+  "_id": {
+    "$oid": "67391c4fa3c9ac4b5cd6cb85"
+  },
+  "nombre": "Valentina Muñoz",
+  "edad": 24,
+  "sexo": "F",
+  "especialidad": "Fútbol, Microfutbol y Futbol Sala",
+  "nacionalidad": "Colombia",
+  "experiencia": "15 años"
+},
+{
+  "_id": {
+    "$oid": "67391c8da3c9ac4b5cd6cb87"
+  },
+  "nombre": "Johana Ruiz",
+  "edad": 25,
+  "sexo": "F",
+  "especialidad": "Fútbol",
+  "nacionalidad": "Mexico",
+  "experiencia": "5 años"
+}]

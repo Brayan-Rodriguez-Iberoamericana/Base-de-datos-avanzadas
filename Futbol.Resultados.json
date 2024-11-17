@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "67393167a3c9ac4b5cd6cc15"
+  },
+  "encuentro_id": "Encuentro1",
+  "equipo_id": "Futbol Club",
+  "puntos": 6,
+  "observaciones": "Victoria con gol en el último minuto."
+},
+{
+  "_id": {
+    "$oid": "673931dda3c9ac4b5cd6cc1a"
+  },
+  "encuentro_id": "Encuentro2",
+  "equipo_id": "Los Leones FC",
+  "puntos": 9,
+  "observaciones": "Victoria por penal"
+},
+{
+  "_id": {
+    "$oid": "67393238a3c9ac4b5cd6cc21"
+  },
+  "encuentro_id": "Encuentro3",
+  "equipo_id": "FC Barcelona",
+  "puntos": 9,
+  "observaciones": "Victoria por cantidad de goles"
+}]

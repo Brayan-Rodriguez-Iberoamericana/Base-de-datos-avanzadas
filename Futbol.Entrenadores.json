@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "673918f1a3c9ac4b5cd6cb69"
+  },
+  "nombre": "Rodolfo Sanchez",
+  "edad": 50,
+  "sexo": "M",
+  "equipo": "Futbol Club",
+  "experiencia": "10 años",
+  "nacionalidad": "Colombia",
+  "cuidad": "Cali"
+},
+{
+  "_id": {
+    "$oid": "67391986a3c9ac4b5cd6cb74"
+  },
+  "nombre": "James Rodriguez",
+  "edad": 45,
+  "sexo": "M",
+  "equipo": "FC Sociedad",
+  "experiencia": "15 años",
+  "nacionalidad": "Colombia",
+  "cuidad": "Bogota"
+},
+{
+  "_id": {
+    "$oid": "673919d8a3c9ac4b5cd6cb78"
+  },
+  "nombre": "Jhon Gomez",
+  "edad": 47,
+  "sexo": "M",
+  "equipo": "Real Bogota",
+  "experiencia": "12 años",
+  "nacionalidad": "Colombia",
+  "cuidad": "Medellin"
+},
+{
+  "_id": {
+    "$oid": "67391a08a3c9ac4b5cd6cb7c"
+  },
+  "nombre": "Luis Hernandez",
+  "edad": 50,
+  "sexo": "M",
+  "equipo": "Los leones FC",
+  "experiencia": "10 años",
+  "nacionalidad": "Colombia",
+  "cuidad": "Bogota"
+},
+{
+  "_id": {
+    "$oid": "67391a36a3c9ac4b5cd6cb80"
+  },
+  "nombre": "Maria Rodriguez",
+  "edad": 50,
+  "sexo": "F",
+  "equipo": "Bogota FC",
+  "experiencia": "17 años",
+  "nacionalidad": "Colombia",
+  "cuidad": "Medellin"
+},
+{
+  "_id": {
+    "$oid": "6739303ba3c9ac4b5cd6cc0c"
+  },
+  "nombre": "Andrea Cardenas",
+  "edad": 30,
+  "sexo": "F",
+  "equipo": "FC Barcelona",
+  "experiencia": "20 años",
+  "nacionalidad": "Colombia",
+  "cuidad": "Boyaca"
+}]

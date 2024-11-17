@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "67392db5a3c9ac4b5cd6cbe4"
+  },
+  "deporte": "Fútbol",
+  "fecha": "16-11-24 8:00 am",
+  "ubicación": "Estadio Campin",
+  "equipo1_id": "Futbol Club",
+  "equipo2_id": "FC Sociedad",
+  "árbitro_id": "Valentina Muñoz",
+  "resultado": {
+    "equipo1_puntos": 2,
+    "equipo2_puntos": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "67392e2aa3c9ac4b5cd6cbed"
+  },
+  "deporte": "Fútbol",
+  "fecha": "16-11-24 9:00 am",
+  "ubicación": "Estadio Campin",
+  "equipo1_id": "Real Bogota",
+  "equipo2_id": "Los Leones FC",
+  "árbitro_id": "Natalia Rodriguez",
+  "resultado": {
+    "equipo1_puntos": 1,
+    "equipo2_puntos": 3
+  }
+},
+{
+  "_id": {
+    "$oid": "67392f5ca3c9ac4b5cd6cbff"
+  },
+  "deporte": "Fútbol",
+  "fecha": "16-11-24 10:00 am",
+  "ubicación": "Estadio Campin",
+  "equipo1_id": "Bogota FC",
+  "equipo2_id": "FC Barcelona",
+  "árbitro_id": "Johana Ruiz",
+  "resultado": {
+    "equipo1_puntos": 2,
+    "equipo2_puntos": 3
+  }
+}]
