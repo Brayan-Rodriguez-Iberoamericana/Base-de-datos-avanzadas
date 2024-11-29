@@ -1,0 +1,22 @@
+Comandos: 
+mongod --replSet RP --dbpath="C:\Data\db\nod1" --port 27017
+mongod --replSet RP --dbpath="C:\Data\db\nod2" --port 27018
+mongod --replSet RP --dbpath="C:\Data\db\nod3" --port 27019
+
+Acceder al servidor
+mongosh --host localhost --port 27017
+
+rs.initiate( {
+_id : "RS",
+members: [
+	{ _id: 0, host: "localhost:27018" },
+	{ _id: 1, host: "localhost:27019" }
+]
+})
+
+rs.initiate()
+rs.add ("localhost:27017")
+rs.add ("localhost:27018")
+rs.add ("localhost:27019")
+
+rs.status()
