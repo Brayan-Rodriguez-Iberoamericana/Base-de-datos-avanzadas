@@ -1,0 +1,47 @@
+md C:\data\repl\n1 
+md C:\data\repl\n2 
+md C:\data\repl\n3 
+md C:\data\repl\n4 
+md C:\data\repl\n5 
+md C:\data\repl\n6 
+
+md C:\data\config\n1 
+md C:\data\config\n2 
+md C:\data\config\n3
+
+------------ // ----------------------- // --------------
+
+mongod --port 27017 --dbpath \data\repl\n1 --replSet rs0
+
+------------ // ----------------------- // --------------
+
+mongo --port 27017
+
+------------ // ----------------------- // --------------
+
+mongod --port 27017 --dbpath \data\repl\n2 --replSet rs0
+
+mongod --port 27017 --dbpath \data\repl\n3 --replSet rs0
+
+------------ // ----------------------- // --------------
+
+rs.initiate()
+
+rs.add("192.168.0.18:27019")
+rs.add("192.168.0.18:27020")
+
+------------ // ----------------------- // --------------
+
+use TorneoDeportivoBr
+
+------------ // ----------------------- // --------------
+
+mongod --port 27022 --dbpath \data\repl\n1 --onfigsvr --bind_ip 192.168.0.18
+
+mongod --port 27023 --dbpath \data\repl\n2 --onfigsvr --bind_ip 192.168.0.18
+
+mongod --port 27024 --dbpath \data\repl\n3 --onfigsvr --bind_ip 192.168.0.18
+
+------------ // ----------------------- // --------------
+
+mongos --port 27021 --configb rs0/192.168.0.18:27022,192.168.0.18:27023,182.168.0.18:27024
